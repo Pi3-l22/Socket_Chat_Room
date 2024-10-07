@@ -35,7 +35,7 @@ For a detailed introduction to the project, please see my blog post: [Pi3'Notes]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-room.git
+   git clone https://github.com/Pi3-l22/Socket_Chat_Room.git
    cd chat-room
    ```
 
