@@ -35,8 +35,8 @@
 
 1. 克隆仓库:
    ```bash
-   git clone https://github.com/yourusername/chat-room.git
-   cd chat-room
+   git clone https://github.com/Pi3-l22/Socket_Chat_Room.git
+   cd Socket_Chat_Room
    ```
 
 2. 安装依赖:
