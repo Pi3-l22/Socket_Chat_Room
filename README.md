@@ -4,7 +4,7 @@
 
 This is a multi-user online chat room application implemented in Python, based on UDP Socket communication. The project includes server-side and client-side components, supporting user registration, login, public chat, and private messaging functionalities.
 
-For a detailed introduction to the project, please see my blog post: [Pi3'Notes](https://blog.pi3.fun/post/2023/12/%E5%9F%BA%E4%BA%8Eudp%E7%9A%84%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/)
+For a detailed introduction to the project, please see my blog post: [Pi3's Notes](https://blog.pi3.fun/post/2023/12/%E5%9F%BA%E4%BA%8Eudp%E7%9A%84%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/)
 
 ## Features
 
